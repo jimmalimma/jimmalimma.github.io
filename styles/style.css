@@ -1,0 +1,68 @@
+html,
+body {
+    background-color: #F5EDD2;
+    font-family: 'Playball', sans-serif;
+    text-align: center;
+    text-shadow: 0 -1px rgba(1, 1, 1, 0.1);
+}
+
+.card {
+    position: absolute;
+    left: 500px;
+    top: 300px;
+    width: 504px;
+    height: 200px;
+    background-color: #ffffff;
+    margin-left: calc(288px/2*-1);
+    margin-top: calc(504px/2*-1);
+    box-shadow: 0 5px 10px rgba(1, 1, 1, 0.25);
+}
+
+.name {
+    position: absolute;
+    left: 360px;
+    top: 110px;
+    width: 500px;
+    height: auto;
+    color: #111111;
+    font-size: 55px;
+    text-align: center;
+    text-decoration: none;
+}
+
+.card_two {
+    position: absolute;
+    left: 380px;
+    top: 300px;
+    width: 350px;
+    height: 450px;
+    background-color: #ffffff;
+    margin-left: calc(650px/2*-1);
+    margin-top: calc(40px/2*-1);
+    box-shadow: 0 5px 10px rgba(1, 1, 1, 0.25);
+}
+
+.card_three {
+    position: absolute;
+    left: 765px;
+    top: 300px;
+    width: 350px;
+    height: 350px;
+    background-color: #ffffff;
+    margin-left: calc(650px/2*-1);
+    margin-top: calc(40px/2*-1);
+    box-shadow: 0 5px 10px rgba(1, 1, 1, 0.25);
+}
+
+.card_four {
+    position: absolute;
+    left: 1150px;
+    top: 300px;
+    width: 350px;
+    height: 450px;
+    background-color: #ffffff;
+    margin-left: calc(650px/2*-1);
+    margin-top: calc(40px/2*-1);
+    box-shadow: 0 5px 10px rgba(1, 1, 1, 0.25);
+
+}
