@@ -6,9 +6,9 @@ body {
     text-shadow: 0 -1px rgba(1, 1, 1, 0.1);
 }
 
-.card {
+.card-one {
     position: absolute;
-    left: 500px;
+    left: 513px;
     top: 300px;
     width: 504px;
     height: 200px;
@@ -20,8 +20,8 @@ body {
 
 .name {
     position: absolute;
-    left: 360px;
-    top: 110px;
+    left: 10px;
+    top: 70px;
     width: 500px;
     height: auto;
     color: #111111;
@@ -30,36 +30,91 @@ body {
     text-decoration: none;
 }
 
-.card_two {
+.card-two {
     position: absolute;
-    left: 380px;
+    left: 385px;
     top: 300px;
     width: 350px;
-    height: 450px;
+    height: 490px;
     background-color: #ffffff;
     margin-left: calc(650px/2*-1);
     margin-top: calc(40px/2*-1);
     box-shadow: 0 5px 10px rgba(1, 1, 1, 0.25);
 }
 
-.card_three {
+.dandalion {
     position: absolute;
-    left: 765px;
-    top: 300px;
+    left: 361px;
+    top: 56px;
+    width: 80%;
+    height: 70%;
+    margin-left: calc(650px/2*-1);
+    margin-top: calc(40px/2*-1);
+}
+
+.card-three {
+    position: absolute;
+    left: 775px;
+    top: 325px;
     width: 350px;
-    height: 350px;
+    height: 360px;
     background-color: #ffffff;
     margin-left: calc(650px/2*-1);
     margin-top: calc(40px/2*-1);
     box-shadow: 0 5px 10px rgba(1, 1, 1, 0.25);
 }
 
-.card_four {
+.sunset {
     position: absolute;
-    left: 1150px;
+    left: 361px;
+    top: 52px;
+    width: 80%;
+    height: 65%;
+    margin-left: calc(650px/2*-1);
+    margin-top: calc(40px/2*-1);
+  }
+
+.card-four {
+    position: absolute;
+    left: 1165px;
     top: 300px;
     width: 350px;
-    height: 450px;
+    height: 490px;
+    background-color: #ffffff;
+    margin-left: calc(650px/2*-1);
+    margin-top: calc(40px/2*-1);
+    box-shadow: 0 5px 10px rgba(1, 1, 1, 0.25);
+}
+
+.nightsky {
+    position: absolute;
+    left: 361px;
+    top: 56px;
+    width: 80%;
+    height: 70%;
+    margin-left: calc(650px/2*-1);
+    margin-top: calc(40px/2*-1);
+}
+
+.card-five {
+    position: absolute;
+    left: 1250px;
+    top: 115px;
+    width: 200px;
+    height: 100px;
+    background-color: #ffffff;
+    margin-left: calc(650px/2*-1);
+    margin-top: calc(40px/2*-1);
+    box-shadow: 0 5px 10px rgba(1, 1, 1, 0.25);
+
+}
+
+.card-six {
+    position: absolute;
+    left: 440px;
+    top: 115px;
+    width: 200px;
+    height: 100px;
     background-color: #ffffff;
     margin-left: calc(650px/2*-1);
     margin-top: calc(40px/2*-1);
