@@ -52,6 +52,19 @@ html {
     margin-top : calc(40px/-2);
 }
 
+.card-two-text {
+    position       : absolute;
+    left           : 50px;
+    top            : 400px;
+    width          : 70%;
+    height         : auto;
+    color          : #111111;
+    font-size      : 20px;
+    text-align     : center;
+    text-decoration: none;
+    font-family    : sans-serif;
+}
+
 .card-three {
     position        : absolute;
     left            : 775px;
@@ -72,6 +85,19 @@ html {
     height     : 65%;
     margin-left: calc(650px/-2);
     margin-top : calc(40px/-2);
+}
+
+.card-three-text {
+    position       : absolute;
+    left           : 50px;
+    top            : 285px;
+    width          : 70%;
+    height         : auto;
+    color          : #111111;
+    font-size      : 20px;
+    text-align     : center;
+    text-decoration: none;
+    font-family    : sans-serif;
 }
 
 .card-four {
@@ -96,6 +122,19 @@ html {
     margin-top : calc(40px/-2);
 }
 
+.card-four-text {
+    position       : absolute;
+    left           : 55px;
+    top            : 400px;
+    width          : 70%;
+    height         : auto;
+    color          : #111111;
+    font-size      : 20px;
+    text-align     : center;
+    text-decoration: none;
+    font-family    : sans-serif;
+}
+
 .card-five {
     position        : absolute;
     left            : 1250px;
@@ -108,6 +147,14 @@ html {
     box-shadow      : 0 5px 10px rgba(1, 1, 1, 0.25);
 }
 
+.link-modeling {
+    position : absolute;
+    left     : 40px;
+    top      : 30px;
+    font-size: 35px;
+    color    : #1498ED;
+}
+
 .card-six {
     position        : absolute;
     left            : 440px;
@@ -118,4 +165,12 @@ html {
     margin-left     : calc(650px/-2);
     margin-top      : calc(40px/-2);
     box-shadow      : 0 5px 10px rgba(1, 1, 1, 0.25);
+}
+
+.card-six-text {
+    position : absolute;
+    left     : 55px;
+    top      : 30px;
+    font-size: 35px;
+    color    : #111111;
 }

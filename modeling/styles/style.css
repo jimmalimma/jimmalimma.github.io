@@ -1,7 +1,7 @@
 body,
 html {
     background-color: #F5F5F5;
-    font-family     : 'Playball', sans-serif;
+    font-family     : 'Playball',sans-serif;
     text-align      : center;
     text-shadow     : 0 -1px rgba(1, 1, 1, 0.1);
 }
@@ -24,7 +24,7 @@ html {
     top            : 70px;
     width          : 500px;
     height         : auto;
-    color          : #111111;
+    color          : #000;
     font-size      : 55px;
     text-align     : center;
     text-decoration: none;
@@ -44,12 +44,25 @@ html {
 
 .hourglass {
     position   : absolute;
-    left       : 361px;
-    top        : 56px;
-    width      : 80%;
+    left       : 366px;
+    top        : 60px;
+    width      : 77%;
     height     : 70%;
     margin-left: calc(650px/-2);
     margin-top : calc(40px/-2);
+}
+
+.card-two-text {
+    position       : absolute;
+    left           : 50px;
+    top            : 400px;
+    width          : 70%;
+    height         : auto;
+    color          : #111111;
+    font-size      : 20px;
+    text-align     : center;
+    text-decoration: none;
+    font-family    : sans-serif;
 }
 
 .card-three {
@@ -66,12 +79,25 @@ html {
 
 .logo {
     position   : absolute;
-    left       : 361px;
-    top        : 52px;
-    width      : 80%;
-    height     : 65%;
+    left       : 331px;
+    top        : 30px;
+    width      : 97%;
+    height     : 75%;
     margin-left: calc(650px/-2);
     margin-top : calc(40px/-2);
+}
+
+.card-three-text {
+    position       : absolute;
+    left           : 50px;
+    top            : 275px;
+    width          : 70%;
+    height         : auto;
+    color          : #111111;
+    font-size      : 20px;
+    text-align     : center;
+    text-decoration: none;
+    font-family    : sans-serif;
 }
 
 .card-four {
@@ -96,6 +122,19 @@ html {
     margin-top : calc(40px/-2);
 }
 
+.card-four-text {
+    position       : absolute;
+    left           : 50px;
+    top            : 400px;
+    width          : 70%;
+    height         : auto;
+    color          : #111111;
+    font-size      : 20px;
+    text-align     : center;
+    text-decoration: none;
+    font-family    : sans-serif;
+}
+
 .card-five {
     position        : absolute;
     left            : 1250px;
@@ -108,6 +147,14 @@ html {
     box-shadow      : 0 5px 10px rgba(1, 1, 1, 0.25);
 }
 
+.card-five-text {
+    position : absolute;
+    left     : 42px;
+    top      : 30px;
+    font-size: 35px;
+    color    : #111111;
+}
+
 .card-six {
     position        : absolute;
     left            : 440px;
@@ -118,4 +165,12 @@ html {
     margin-left     : calc(650px/-2);
     margin-top      : calc(40px/-2);
     box-shadow      : 0 5px 10px rgba(1, 1, 1, 0.25);
+}
+
+.link-photos {
+    position : absolute;
+    left     : 55px;
+    top      : 30px;
+    font-size: 35px;
+    color    : #1498ED;
 }

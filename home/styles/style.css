@@ -1,0 +1,71 @@
+body,
+html {
+    background-color: #F5F5F5;
+    font-family     : 'Playball', sans-serif;
+    text-align      : center;
+    text-shadow     : 0 -1px rgba(1, 1, 1, 0.1);
+}
+
+.card-one {
+    position        : absolute;
+    left            : 513px;
+    top             : 550px;
+    width           : 504px;
+    height          : 200px;
+    background-color: #ffffff;
+    margin-left     : calc(288px/-2);
+    margin-top      : calc(504px/-2);
+    box-shadow      : 0 5px 10px rgba(1, 1, 1, 0.25);
+}
+
+.name {
+    position       : absolute;
+    left           : 10px;
+    top            : 70px;
+    width          : 500px;
+    height         : auto;
+    color          : #111111;
+    font-size      : 55px;
+    text-align     : center;
+    text-decoration: none;
+}
+
+.card-five {
+    position        : absolute;
+    left            : 1250px;
+    top             : 365px;
+    width           : 200px;
+    height          : 100px;
+    background-color: #ffffff;
+    margin-left     : calc(650px/-2);
+    margin-top      : calc(40px/-2);
+    box-shadow      : 0 5px 10px rgba(1, 1, 1, 0.25);
+}
+
+.link-modeling {
+    position : absolute;
+    left     : 40px;
+    top      : 30px;
+    font-size: 35px;
+    color    : #1498ED;
+}
+
+.card-six {
+    position        : absolute;
+    left            : 440px;
+    top             : 365px;
+    width           : 200px;
+    height          : 100px;
+    background-color: #ffffff;
+    margin-left     : calc(650px/-2);
+    margin-top      : calc(40px/-2);
+    box-shadow      : 0 5px 10px rgba(1, 1, 1, 0.25);
+}
+
+.link-photos {
+    position : absolute;
+    left     : 55px;
+    top      : 30px;
+    font-size: 35px;
+    color    : #1498ED;
+}
